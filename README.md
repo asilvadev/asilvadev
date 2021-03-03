@@ -22,6 +22,7 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/asilvadev/)
 <br/>
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/85ec92b476b9e9ef1d1e18cb42f894b6124cee88/icons/cucumber.svg" title="cucumber" alt="cucumber" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/85ec92b476b9e9ef1d1e18cb42f894b6124cee88/icons/robot.svg" title="robot" alt="robot" width="25" height="25" />
+<img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" title="appium" alt="appium" width="25" height="25" />
 <img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" title="selenium" alt="selenium" width="24" height="24" />
 <img src="https://img.stackshare.io/service/2595/capybara.png" title="capybara" alt="capybara" width="24" height="24" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/85ec92b476b9e9ef1d1e18cb42f894b6124cee88/icons/react.svg" title="react" alt="react" width="25" height="25" />
