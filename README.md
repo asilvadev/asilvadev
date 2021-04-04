@@ -4,7 +4,7 @@
 
 #
 
-👋 I'm [Alan](https://i.giphy.com/iesn9amYpp33RNpK3d.gif) a QA Engineer based in Brazil 🇧🇷
+👋 I'm [Alan](https://i.giphy.com/iesn9amYpp33RNpK3d.gif) a QA Engineer at [Sensedia](https://www.sensedia.com/), based in Brazil 🇧🇷
 
 🔥 My mission is to guarantee the quality of software development, building and executing test scenarios.
 
@@ -44,7 +44,7 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/asilvadev/)
 <p>
 <row>
 <a href="https://github.com/asilvadev">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=asilvadev&show_icons=true&theme=tokyonight" />
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=asilvadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asilvadev&theme=tokyonight&layout=compact" />
 </a>
 </row>
@@ -52,7 +52,7 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/asilvadev/)
 
 ## Trivia:
 
-- 🔭 I’m currently open to work:
+- 🔭 I’m currently working at: [Sensedia](https://www.sensedia.com/)
 - 🌱 I’m currently learning: [RobotFramework](https://robotframework.org) + [Python](https://www.python.org)
 - 📫 How to reach me:  [Linkedin](http://linkedin.com/in/asilvadev)
 - ⚡ Fun fact: My tests are made with ❤️ and ☕
