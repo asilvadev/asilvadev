@@ -4,7 +4,7 @@
 
 #
 
-👋 I'm [Alan](https://i.giphy.com/iesn9amYpp33RNpK3d.gif) a QA Engineer at [Sensedia](https://www.sensedia.com/), based in Brazil 🇧🇷
+👋 I'm [Alan](https://i.giphy.com/iesn9amYpp33RNpK3d.gif) a QA Engineer, based in Brazil 🇧🇷
 
 🔥 My mission is to guarantee the quality of software development, building and executing test scenarios.
 
